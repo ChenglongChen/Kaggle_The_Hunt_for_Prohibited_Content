@@ -32,7 +32,8 @@ sudo mkdir -p ${TMPDIR}
 sudo mkdir -p ${SUBDIR}
 
 # training and testing data
-model=mixed
+# extract the model arg
+model=$1
 if [ $model = mixed ]; then
 	VWTRAIN=${DATADIR}/train.vw
 else if [ $model = proved ]; then

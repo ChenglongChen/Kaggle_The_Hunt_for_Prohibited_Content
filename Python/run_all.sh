@@ -12,8 +12,9 @@
 # generate VW training and testing data
 python generate_vw_file.py
 
-# perform grid search and bagging
-bash grid_search.sh
+# perform grid search and bagging for mixed & proved models
+sudo bash grid_search.sh mixed
+sudo bash grid_search.sh proved
 
 # generate final submission
 python generate_bagging_submission.py
