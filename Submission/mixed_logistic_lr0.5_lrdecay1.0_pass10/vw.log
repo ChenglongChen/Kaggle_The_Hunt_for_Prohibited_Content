@@ -1,0 +1,26 @@
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.5, passes=2 | AP@k=0.98818434
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.5, passes=4 | AP@k=0.98849502
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.5, passes=6 | AP@k=0.98856568
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.5, passes=8 | AP@k=0.98859229
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.5, passes=10 | AP@k=0.98859926
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.5, passes=12 | AP@k=0.988602
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.5, passes=14 | AP@k=0.98860294
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.5, passes=16 | AP@k=0.98860305
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.75, passes=2 | AP@k=0.98835543
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.75, passes=4 | AP@k=0.98882803
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.75, passes=6 | AP@k=0.9889382
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.75, passes=8 | AP@k=0.98898437
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.75, passes=10 | AP@k=0.98901743
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.75, passes=12 | AP@k=0.98903789
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.75, passes=14 | AP@k=0.98905048
+ * Train for: loss=logistic, lr=0.5, lr_decay=0.75, passes=16 | AP@k=0.98905807
+ * Train for: loss=logistic, lr=0.5, lr_decay=1.0, passes=2 | AP@k=0.98847697
+ * Train for: loss=logistic, lr=0.5, lr_decay=1.0, passes=4 | AP@k=0.98900514
+ * Train for: loss=logistic, lr=0.5, lr_decay=1.0, passes=6 | AP@k=0.98913657
+ * Train for: loss=logistic, lr=0.5, lr_decay=1.0, passes=8 | AP@k=0.98916781
+ * Train for: loss=logistic, lr=0.5, lr_decay=1.0, passes=10 | AP@k=0.98917496
+ * Train for: loss=logistic, lr=0.5, lr_decay=1.0, passes=12 | AP@k=0.98916527
+ * Train for: loss=logistic, lr=0.5, lr_decay=1.0, passes=14 | AP@k=0.98914649
+ * Train for: loss=logistic, lr=0.5, lr_decay=1.0, passes=16 | AP@k=0.98913219
+ * Best params for loss=logistic:
+   lr=0.5, lr_decay=1.0, passes=10 | AP@k=0.98917496
