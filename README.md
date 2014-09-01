@@ -43,3 +43,9 @@ I initally entered this competition to familiarize myself with VW and Linux & Sh
 * download data from the [competition website](http://www.kaggle.com/c/avito-prohibited-content/data) and put all the data into `./Data` dir
 * put all the code into `./Python` dir:
 * run `bash ./Python/run_all.sh` to create csv submission to Kaggle.
+
+
+## Discussion
+
+* It seems promissing to train seperate model for each category as discussed [here](http://www.kaggle.com/c/avito-prohibited-content/forums/t/10178/congrats-barisumog-giulio/52856#post52856).
+* Semi-supervised learning (SSL) is shown to be useful for the [winning team](http://www.kaggle.com/c/avito-prohibited-content/forums/t/10178/congrats-barisumog-giulio/52812#post52812). The idea of SSL is also exploited in another competition: [Kaggles' Greek Media Monitoring Multilabel Classification (WISE 2014)](http://www.kaggle.com/c/wise-2014) as shown [here](http://www.kaggle.com/c/wise-2014/forums/t/9773/our-approach-5th-place/50766#post50766).
